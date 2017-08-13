@@ -1,11 +1,23 @@
-img{
-  opacity: 0.2;
-
+h1 > #style{
+  text-shadow: 0 9px 4px #85c226,
+            -3px -5px 4px #fe2192,
+            3px -5px 4px #f7c200;
 }
+
+
 ul{
   list-style: none;
 }
 
 body{
   margin-top: 10%;
+}
+img{
+  float: left;
+  opacity: 0.6;
+  display: block;
+  max-width:450px;
+  max-height:180px;
+  width: auto;
+  height: auto;
 }
