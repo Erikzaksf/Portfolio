@@ -1,4 +1,4 @@
-# Coding Course Path
+# Portfolio
 
 This is a solo project for my first week at Epicodus. I am tasked with creating a webpage that will contain links to some of my school projects and an about me page.
 
